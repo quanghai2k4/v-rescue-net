@@ -237,29 +237,6 @@ v-rescue-net/
 - Không lưu trữ thông tin nhạy cảm trong code
 - Validation dữ liệu đầu vào
 
-## 🌟 Roadmap
-
-### Giai đoạn 1 (MVP) - ✅ Hoàn thành
-- [x] Gửi yêu cầu cứu trợ với GPS
-- [x] Bản đồ hiển thị yêu cầu
-- [x] Cập nhật trạng thái real-time
-- [x] Bộ lọc và phân loại
-- [x] Docker deployment với PostgreSQL + PostGIS
-- [x] Socket.IO real-time updates
-
-### Giai đoạn 2 (Mở rộng)
-- [ ] Hỗ trợ SMS cho khu vực mất Internet
-- [ ] Hệ thống phân quyền đội cứu hộ
-- [ ] Cảnh báo sớm dựa trên dữ liệu thời tiết
-- [ ] Ứng dụng mobile native
-- [ ] Reverse geocoding (chuyển GPS thành địa chỉ)
-
-### Giai đoạn 3 (Hệ sinh thái)
-- [ ] AI phân tích và đề xuất ưu tiên
-- [ ] Cổng thông tin tìm kiếm người thân
-- [ ] Tích hợp hệ thống quốc gia
-- [ ] Dashboard phân tích và báo cáo
-
 ## 🐛 Troubleshooting
 
 ### Lỗi kết nối Socket.IO
