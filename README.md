@@ -53,7 +53,7 @@ Nền tảng công nghệ kết nối người dân cần giúp đỡ với lự
 ```bash
 # 1. Clone repository
 git clone <repository-url>
-cd baolu
+cd v-rescue-net
 
 # 2. Cấu hình môi trường (tùy chọn)
 cp .env.example .env.docker
@@ -96,7 +96,7 @@ Xem chi tiết tại [DOCKER.md](DOCKER.md)
 
 ```bash
 git clone <repository-url>
-cd baolu
+cd v-rescue-net
 ```
 
 #### 2. Cài đặt PostgreSQL và PostGIS
@@ -213,7 +213,7 @@ npm run client
 ## 🏗️ Cấu trúc dự án
 
 ```
-baolu/
+v-rescue-net/
 ├── client/                # Frontend React
 │   ├── src/
 │   │   ├── pages/        # Components trang
